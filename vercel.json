@@ -2,11 +2,11 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://jkgiovasglacierbot7772022/api/:path*"
+      "destination": "https://jkgiovasglacierbot777:2022/api/:path*"
     },
     {
       "source": "/transcripts/:path*",
-     "destination": "https://jkgiovasglacierbot7772022/api/:path*"
+     "destination": "https://jkgiovasglacierbot777:2022/api/:path*"
     },
     {
       "source": "/(.*)",

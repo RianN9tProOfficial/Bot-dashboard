@@ -2,11 +2,11 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "sftp://de-vip-01.orihost.com:2022/api/:path*"
+      "destination": "https://de-vip-01.orihost.com:2022/api/:path*"
     },
     {
       "source": "/transcripts/:path*",
-      "destination": "sftp://de-vip-01.orihost.com:2022/transcripts/:path*"
+      "destination": "https://de-vip-01.orihost.com:2022/transcripts/:path*"
     },
     {
       "source": "/(.*)",

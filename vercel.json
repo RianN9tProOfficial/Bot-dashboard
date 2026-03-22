@@ -2,11 +2,11 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "ca-01.rrhosting.eu:7839/api/:path*"
+      "destination": "jkgiovasglacierbot777.vercel.app:7839/api/:path*"
     },
     {
       "source": "/transcripts/:path*",
-      "destination": "ca-01.rrhosting.eu:7839/transcripts/:path*"
+      "destination": "jkgiovasglacierbot777.vercel.app:7839/transcripts/:path*"
     },
     {
       "source": "/(.*)",
